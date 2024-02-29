@@ -1,5 +1,9 @@
 # tic-tac-toe
 
+## Description:
+
+This repository is created specially for the course "Mastering AI Assistants for Programming" on Udemy by Yaroslav Dobroskok
+
 ## Project setup
 ```
 npm install
